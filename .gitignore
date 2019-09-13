@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+data/propmast_tc24_2020.txt
+*.DS_Store*
